@@ -1,0 +1,33 @@
+{
+  "idea": "car washing business",
+  "templateId": "signature",
+  "content": {
+    "siteKind": "business",
+    "title": "Shine & Go",
+    "tagline": "Fast, friendly car cleaning",
+    "intro": "Mobile car wash service that comes to you, using eco‑friendly products to leave every vehicle spotless and fresh.",
+    "sections": [
+      {
+        "title": "Our services",
+        "body": "Exterior wash, interior vacuum, tire shine, and full detail—all performed on site in under an hour."
+      },
+      {
+        "title": "How it works",
+        "body": "Book online, we arrive at your location, clean your car, and you’re ready to roll."
+      },
+      {
+        "title": "Why choose us",
+        "body": "Water‑saving techniques, biodegradable soaps, and a satisfaction guarantee on every wash."
+      }
+    ],
+    "cta": {
+      "label": "Book now",
+      "note": "Schedule your wash in minutes"
+    },
+    "closing": {
+      "headline": "Your car deserves the best",
+      "body": "Experience a clean ride without leaving your driveway."
+    },
+    "footerNote": "Eco‑friendly car care"
+  }
+}
